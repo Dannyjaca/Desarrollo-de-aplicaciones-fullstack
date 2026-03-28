@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+    margin: 0;
+    padding: 20px;
+}
+
+.H1 {
+    color: red;
+}
+
+.Titulo {
+    text-align: center;
+}
+
+.Autor {
+    text-align: right;
+}
+
+.Pacifico { 
+    text-align: left;
+}
+.h2 {
+    color: red
+}
+
+.Atlantico {
+    text-align: right;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin: auto;
+
+}
